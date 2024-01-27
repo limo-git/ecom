@@ -1,0 +1,38 @@
+.cartFlex{
+    display: flex;
+    gap: 1000px;
+    align-items: center;
+    justify-content: center;
+}
+.cartHead{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.cart{
+    height: 500px;
+    border: 1px solid white;
+    border-radius: 2px;
+    
+}
+
+.nameList{
+    list-style: none;
+    
+}
+
+.priceList li {
+    list-style: none;
+    
+}
+
+.total{
+    top: 270px;
+    left: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    
+}

@@ -1,0 +1,16 @@
+.infoFlex img{
+    width: 350px;
+    height: 400px;
+    display: flex;
+    
+}
+
+.cardFlex{
+    display: flex;
+    gap: 40px;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 30px;
+    
+}
+
